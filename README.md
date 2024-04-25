@@ -1,5 +1,9 @@
 # windows-scripts
-under duress I found ways of replicating my hyprland setup solely within the windows user space
+Under duress I found ways of replicating my hyprland setup solely within the windows user space.
+I despise powershell and am much more comfortable in bash, but some concessions had to be made.
+Given that glazeWM is an i3 and polybar port, autotiling is not a goal of the project and 
+needed to be manually simulated. The polybar port does not fully make use of all windows apis, 
+so some of the widgets do not provide full functionality.
 
 requirements:
 - git bash: https://gitforwindows.org/
