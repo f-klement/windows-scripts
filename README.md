@@ -10,7 +10,7 @@ requirements:
 - windhawk (taskbarheight)
 - snipaste
 - VS Code
-- brave
+- chrome(ium)/brave
 - Windows Terminal
 - mingwe/mysy2
 - obsidian
