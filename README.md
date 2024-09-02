@@ -10,6 +10,7 @@ requirements:
 - choco & scoop: https://chocolatey.org/  &  https://scoop.sh/
 - glazeWM: https://github.com/glzr-io/glazewm (in the V3 incompatible with the burgr033 script, refer to ParasiteDelta instead)
 - python 3.11+ (platform, asyncio, websockets, subprocess)
+- https://github.com/ParasiteDelta/GAT-GWM (dynamic tiling script built in rust)
 - powertoys
 - windhawk (taskbarheight): https://windhawk.net/
 - snipaste
@@ -20,7 +21,7 @@ requirements:
 - obsidian
 
 The repo provides merely the config for glazeWM, as well as an autotiling and autostart script for the two,
-building upon the autotiling implementation by burgr033, the Rust based variant by ParasiteDelta still needs to be implemented.
+building upon the autotiling implementation by burgr033, the Rust based variant by ParasiteDelta fulfills the same function.
 Windhawk and powertoys need to be started seperately, either through task scheduler or optionally inclusion in the autostart script. 
 The new V3 glazr folder needs a dot '.' added to its title to be found and run correctly.
 Powertoys Run requires the centralized keyboard hook setting to be turned on.
