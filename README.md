@@ -8,7 +8,7 @@ so some of the widgets do not provide full functionality.
 requirements:
 - git bash: https://gitforwindows.org/
 - choco & scoop: https://chocolatey.org/  &  https://scoop.sh/
-- glazeWM: https://github.com/glzr-io/glazewm
+- glazeWM: https://github.com/glzr-io/glazewm (in the V3 incompatible with the burgr033 script, refer to ParasiteDelta instead)
 - python 3.11+ (platform, asyncio, websockets, subprocess)
 - powertoys
 - windhawk (taskbarheight): https://windhawk.net/
@@ -20,6 +20,6 @@ requirements:
 - obsidian
 
 The repo provides merely the config for glazeWM, as well as an autotiling and autostart script for the two,
-building upon the autotiling implementation by burgr033. Windhawk and powertoys need to be started seperately,
-either through task scheduler or optionally inclusion in the autostart script. 
+building upon the autotiling implementation by burgr033, the Rust based variant by ParasiteDelta still needs to be implemented.
+Windhawk and powertoys need to be started seperately, either through task scheduler or optionally inclusion in the autostart script. 
 Powertoys Run requires the centralized keyboard hook setting to be turned on.
