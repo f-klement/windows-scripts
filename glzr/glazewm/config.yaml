@@ -1,7 +1,10 @@
 general:
   # Commands to run when the WM has started (e.g. to run a script or launch
   # another application). Here we are running a batch script to start Zebar.
-  startup_commands: ['shell-exec %userprofile%/.glzr/zebar/start.bat']
+  startup_commands: [
+    'shell-exec %userprofile%/.glzr/zebar/start.bat',
+    'shell-exec %userprofile%/.glzr/glazewm/gat-gwm.exe'
+    ]
 
   # Whether to automatically focus windows underneath the cursor.
   focus_follows_cursor: true
