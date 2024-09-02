@@ -1,0 +1,16 @@
+[2m2024-09-02T11:36:32.955111Z[0m [31mERROR[0m [2mglazewm::common::commands::shell_exec[0m[2m:[0m [3merr_message[0m[2m=[0m"Failed to execute '%userprofile%/.glzr/zebar/start.bat'.\n\nError: Program path is not valid for command '%userprofile%/.glzr/zebar/start.bat'."
+[2m2024-09-02T12:20:48.881855Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Another instance of the application is already running.
+[2m2024-09-02T12:38:22.608482Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m keybindings[25].commands: unrecognized subcommand
+ at line 213 column 15
+[2m2024-09-02T12:39:08.438761Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m keybindings[25].commands: unrecognized subcommand
+ at line 213 column 15
+[2m2024-09-02T12:41:15.923474Z[0m [31mERROR[0m [2mglazewm::common::commands::shell_exec[0m[2m:[0m [3merr_message[0m[2m=[0m"Failed to execute '%userprofile%/.glzr/zebar/start.bat'.\n\nError: Program path is not valid for command '%userprofile%/.glzr/zebar/start.bat'."
+[2m2024-09-02T12:45:41.252592Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m No parent
+[2m2024-09-02T13:06:10.645463Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Another instance of the application is already running.
+[2m2024-09-02T13:13:29.023029Z[0m [31mERROR[0m [2mglazewm::common::commands::shell_exec[0m[2m:[0m [3merr_message[0m[2m=[0m"Failed to execute ''C:/Users/ata086flokle/AppData/Local/Programs/obsidian/Obsidian.exe''.\n\nError: Program path is not valid for command ''C:/Users/ata086flokle/AppData/Local/Programs/obsidian/Obsidian.exe''."
+[2m2024-09-02T13:28:05.839989Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m did not find expected key at line 244 column 32, while parsing a block mapping at line 243 column 5
+[2m2024-09-02T13:29:02.090554Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m did not find expected key at line 244 column 32, while parsing a block mapping at line 243 column 5
+[2m2024-09-02T13:29:50.043276Z[0m [31mERROR[0m [2mglazewm::common::commands::shell_exec[0m[2m:[0m [3merr_message[0m[2m=[0m"Failed to execute '\"C:/Users/ata086flokle/AppData/Local/Programs/obsidian/Obsidian.exe\"'.\n\nError: Command doesn't have an ending `\"`: '\"C:/Users/ata086flokle/AppData/Local/Programs/obsidian/Obsidian.exe\"'."
+[2m2024-09-02T13:31:22.550989Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m keybindings[30].commands: one or more required arguments were not provided
+ at line 233 column 15
+[2m2024-09-02T13:32:38.026149Z[0m [31mERROR[0m [2mglazewm::common::commands::shell_exec[0m[2m:[0m [3merr_message[0m[2m=[0m"Failed to execute '\"C:/Users/ata086flokle/AppData/Local/Programs/Microsoft VS Code/Code.exe\"'.\n\nError: Command doesn't have an ending `\"`: '\"C:/Users/ata086flokle/AppData/Local/Programs/Microsoft VS Code/Code.exe\"'."
