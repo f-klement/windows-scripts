@@ -22,4 +22,5 @@ requirements:
 The repo provides merely the config for glazeWM, as well as an autotiling and autostart script for the two,
 building upon the autotiling implementation by burgr033, the Rust based variant by ParasiteDelta still needs to be implemented.
 Windhawk and powertoys need to be started seperately, either through task scheduler or optionally inclusion in the autostart script. 
+The new V3 glazr folder needs a dot '.' added to its title to be found and run correctly.
 Powertoys Run requires the centralized keyboard hook setting to be turned on.
