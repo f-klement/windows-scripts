@@ -9,9 +9,10 @@ requirements:
 - git bash: https://gitforwindows.org/
 - choco & scoop: https://chocolatey.org/  &  https://scoop.sh/
 - glazeWM: https://github.com/glzr-io/glazewm (in the V3 incompatible with the burgr033 script, refer to ParasiteDelta instead)
-- python 3.11+ (platform, asyncio, websockets, subprocess)
+- python 3.12+ (platform, asyncio, websockets, subprocess)
 - https://github.com/ParasiteDelta/GAT-GWM (dynamic tiling script built in rust)
 - powertoys
+- flow launcher 
 - windhawk (taskbarheight): https://windhawk.net/
 - snipaste
 - VS Code
